@@ -38,7 +38,7 @@ function Navbar() {
           </div>
         </div>
       </nav>
-      <div className="flex bg-white text-black px-14 p-10 justify-between">
+      <div className="flex bg-white text-black px-14 p-10 sm:mt-20 w-full justify-between">
         <div>
           <Image src={logo} alt="logo" />
         </div>
