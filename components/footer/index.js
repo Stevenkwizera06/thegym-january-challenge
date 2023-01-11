@@ -22,7 +22,7 @@ function Footer() {
             <div className="flex gap-4 md:gap-0 items-center md:grid md:grid-cols-3 md:mt-6 col-span-2">
               {[{
                 image:youtube,
-                title:"youtube"
+                title:"youtuube"
               },
               {
                 image:instagram,
