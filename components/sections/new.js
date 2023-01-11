@@ -22,7 +22,7 @@ function News() {
               })}
               <div className="bg-white flex flex-col space-y-5 text-black">
                 <img
-                  src="https://www.uni-stuttgart.de/universitaet/aktuelles/meldungen/img-news/instagram.jpg?__scale=w:220,h:220,cx:333,cy:0,cw:1333,ch:1333"
+                  src=""
                   alt=""
                   className="m-auto rounded-full"
                 />
@@ -50,7 +50,7 @@ function News() {
               </div>
               <div className="bg-white flex flex-col space-y-5 text-black">
                 <img
-                  src="https://www.uni-stuttgart.de/universitaet/aktuelles/meldungen/img-news/instagram.jpg?__scale=w:220,h:220,cx:333,cy:0,cw:1333,ch:1333"
+                  src="https://www.uni-stuttgart.de/universitaet/aktuelles/meldungen/img-news/photocase_4910444.jpg?__scale=w:220,h:220,cx:0,cy:871,cw:2000,ch:2000"
                   alt=""
                   className="m-auto rounded-full"
                 />
@@ -63,7 +63,7 @@ function News() {
               </div>
               <div className="bg-white flex flex-col space-y-5 text-black">
                 <img
-                  src="https://www.uni-stuttgart.de/universitaet/aktuelles/meldungen/img-news/instagram.jpg?__scale=w:220,h:220,cx:333,cy:0,cw:1333,ch:1333"
+                  src="https://www.uni-stuttgart.de/universitaet/aktuelles/meldungen/img-news/diversity-kalender.JPG?__scale=w:220,h:220,cx:170,cy:0,cw:832,ch:832"
                   alt=""
                   className="m-auto rounded-full"
                 />
@@ -78,9 +78,9 @@ function News() {
             <div className="space-y-6">
               <div className="bg-white flex flex-col space-y-5 text-black">
                 <img
-                  src="https://www.uni-stuttgart.de/universitaet/aktuelles/meldungen/img-news/instagram.jpg?__scale=w:220,h:220,cx:333,cy:0,cw:1333,ch:1333"
+                  src="https://www.usus.uni-stuttgart.de/img/2022/stressed-student.jpg?__scale=w:560,h:400,cx:67,cy:0,cw:1866,ch:1333"
                   alt=""
-                  className="m-auto rounded-full"
+                  className="m-auto "
                 />
                 <div className="px-4 flex items-start flex-col justify-between">
                   <h4 className="text-2xl font-bold">
@@ -91,7 +91,7 @@ function News() {
               </div>
               <div className="bg-white flex flex-col space-y-5 text-black">
                 <img
-                  src="https://www.uni-stuttgart.de/universitaet/aktuelles/meldungen/img-news/instagram.jpg?__scale=w:220,h:220,cx:333,cy:0,cw:1333,ch:1333"
+                  src="https://www.simtech.uni-stuttgart.de/img/Sim_Tech_Folge_03_Szene_27.jpg?__scale=w:220,h:220,cx:262,cy:26,cw:1073,ch:1073"
                   alt=""
                   className="m-auto rounded-full"
                 />
