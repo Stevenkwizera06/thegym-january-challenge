@@ -2,21 +2,17 @@ import Wrapper from "../layout/wrapper";
 
 function Begriff() {
   return (
-    <div className="">
-      <div className=" px-36  bg-white mx-auto ml-56">
-        <div class="flex flex-col space-y-4 w-[600px] h-[200px] p-6 mt-10  bg-white border-2 border-gray-200   shadow-md dark:bg-gray-200">
-          <p>Begriff</p>
-          <input
-            className="bg-white w-[550px] h-[350px]"
-            type="text"
-            placeholder="Suchein Sie nach aus deim un"
-          />
-          <button className="bg-blue-600 text-white border py-4 px-6 w-44 h-16">
-            Begriff Suchein
-          </button>
-        </div>
-      </div>
-    </div>
+    <section className='max-w-[74rem] bg-white mx-auto'>
+          <div className=' max-w-[44rem] mx-auto grid py-16'>
+            <div className=' bg-[#EEEEEE] px-10  py-6'>
+              <h4 className='mb-2'>Begriff</h4>
+              <div>
+                <input className='border border-gray-500  py-4 px-2 w-full focus:outline-blue-500' type="text" placeholder='Suchen Sie nach Begriffen aus dem Uni-Glossar' />
+                <button className='px-6 text-sm py-4 bg-blue-600 text-white mt-4'>BEGRIFF SUCHEN</button>
+              </div>
+            </div>
+          </div>
+        </section>
   );
 }
 

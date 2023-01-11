@@ -19,28 +19,21 @@ function Program() {
               <Image className="" src={rightChevron} alt="drive" />
               <p className="text-blue-700 text-xl">
                 {" "}
-                C@MPUS - campus management and lectures
+                Getting started
               </p>
             </div>
             <div className="flex hover:underline">
               <Image className="" src={rightChevron} alt="drive" />
               <p className="text-blue-700 text-xl">
                 {" "}
-                C@MPUS - campus management and lectures
+                Getting started
               </p>
             </div>
             <div className="flex hover:underline">
               <Image className="" src={rightChevron} alt="drive" />
               <p className="text-blue-700 text-xl">
                 {" "}
-                C@MPUS - campus management and lectures
-              </p>
-            </div>
-            <div className="flex hover:underline">
-              <Image className="" src={rightChevron} alt="drive" />
-              <p className="text-blue-700 text-xl">
-                {" "}
-                C@MPUS - campus management and lectures
+                Getting started
               </p>
             </div>
           </div>
@@ -56,21 +49,21 @@ function Program() {
               <Image className="" src={rightChevron} alt="drive" />
               <p className="text-blue-700 text-xl">
                 {" "}
-                C@MPUS - campus management and lectures
+                Getting started
               </p>
             </div>
             <div className="flex hover:underline">
               <Image className="" src={rightChevron} alt="drive" />
               <p className="text-blue-700 text-xl">
                 {" "}
-                C@MPUS - campus management and lectures
+                Getting started
               </p>
             </div>
             <div className="flex hover:underline">
               <Image className="" src={rightChevron} alt="drive" />
               <p className="text-blue-700 text-xl">
                 {" "}
-                C@MPUS - campus management and lectures
+                Getting started
               </p>
             </div>
           </div>
@@ -86,37 +79,32 @@ function Program() {
               <Image className="" src={rightChevron} alt="drive" />
               <p className="text-blue-700 text-xl">
                 {" "}
-                C@MPUS - campus management and lectures
+                Campus map
               </p>
             </div>
             <div className="flex hover:underline">
               <Image className="" src={rightChevron} alt="drive" />
               <p className="text-blue-700 text-xl">
                 {" "}
-                C@MPUS - campus management and lectures
+                Campus map
               </p>
             </div>
             <div className="flex hover:underline">
               <Image className="" src={rightChevron} alt="drive" />
               <p className="text-blue-700 text-xl">
                 {" "}
-                C@MPUS - campus management and lectures
+                Campus map
               </p>
             </div>
             <div className="flex hover:underline">
               <Image className="" src={rightChevron} alt="drive" />
               <p className="text-blue-700 text-xl">
                 {" "}
-                C@MPUS - campus management and lectures
+                Campus map
               </p>
             </div>
-            <div className="flex hover:underline">
-              <Image className="" src={rightChevron} alt="drive" />
-              <p className="text-blue-700 text-xl">
-                {" "}
-                C@MPUS - campus management and lectures
-              </p>
-            </div>
+           
+          
           </div>
         </div>
       </div>
