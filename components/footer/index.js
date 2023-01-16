@@ -7,7 +7,6 @@ import linkedin from "../../public/images/linkedin.svg";
 function Footer() {
   return (
     <Wrapper>
-      
 
       <div>
         <div className="max-w-[74rem]  bg-[#333333] text-white md:px-5 pt-10 px-32 mx-auto">
